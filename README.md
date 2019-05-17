@@ -1,1 +1,1 @@
-# targetGame
+The player’s objective is to shoot rapidly shrinking targets as they appear on the screen. The player has the opportunity to progress through various ‘levels’ as they become more skilled. I created the game using object-oriented programming principles and event-driven programming.
